@@ -64,12 +64,12 @@ The ultimate victor is the player or computer who successfully sinks all of thei
 I have tested my python code by [CI Python Linter](https://pep8ci.herokuapp.com/#)
 ![python-check](gallery/py-test.png)
 
-Also I tested in my local terminal. I tried to check using the Code Institute Herkou terminal, uploaded my project, but it shows an error when opening the application, which I don’t know how to solve, looking at the logs I don’t understand exactly what the error is.
+Also I tested in my local terminal, and the Code Institute Heroku terminal.
 
 ## Deployment
 This project was deployed using Code Institute's mock terminal for Heroku.
 
-This should be a link to my application in the online [MY LINK](https://sp3battleship-1e569b033394.herokuapp.com). But it doesn’t work correctly, there is some error that I don’t understand, when I look at the logs I still don’t understand it.
+My application in the online [MY LINK](https://sp3battleship-309ac4b57143.herokuapp.com).
 
 The steps for deployment are as follows:
 
